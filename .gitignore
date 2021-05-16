@@ -1,0 +1,19 @@
+node_modules/
+plugged/
+.old
+Developer/
+.local/
+Downloads/
+.mozilla/
+.cache/
+.bash_profile
+.bash_history
+.bash_logout
+.Xauthority
+.npm/
+.config/*
+!.config/coc
+.pki/
+.vscode-oss/
+.config/Code - OSS/
+.viminfo
